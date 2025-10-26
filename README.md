@@ -1,4 +1,4 @@
-## hi
+## about me
 
 i code mostly in typescript, c#, java, and python.  
 also like producing music.
