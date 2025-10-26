@@ -1,5 +1,8 @@
-## Hi there 👋
+## hi
 
+fullstack, devops, and game dev.  
+coding mainly in typescript, c#, java, and python.  
+also like producing music.
 <!--
 **keyesque/keyesque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
