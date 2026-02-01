@@ -1,4 +1,4 @@
 ## keyesque
 
 Hey! I'm Karl, welcome to my GitHub page.
-I mainly work with TypeScript, C#, Java, and Python.
+I mainly work with C/C++, C#, and Bash.
